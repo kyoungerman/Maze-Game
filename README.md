@@ -1,6 +1,6 @@
 ---NOTE: This project is a work in progress. It will be updated regularly, with the final version being uploaded by May 18, 2019.---
 
-This project was written as a group for COSC 3015: Software Design
+This project was written as a group, in Java, using Eclipse, for COSC 3015: Software Design
 
 The group consists of: Kevin Youngerman (myself), Brandon Donaghe, Addison Dugal, Jordan Fitzgerald, and Ryan Evans
 
