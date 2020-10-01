@@ -1,4 +1,4 @@
----NOTE: This project is an incomplete version of the Final Product. The final version has been lost, as I do not have access to the repository any more.---
+---NOTE: This project is an incomplete version of the final product. The final version has been lost, as I do not have access to the repository any more.---
 
 This project was written as a group, in Java, using Eclipse, for COSC 3015: Software Design
 
